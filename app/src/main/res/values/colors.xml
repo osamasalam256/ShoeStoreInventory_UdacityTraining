@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#79CDF5</color>
+    <color name="colorPrimaryVariant">#6E84FA</color>
+    <color name="colorAccent">#FB627D</color>
+    <color name="colorSecondary">#62D7DE</color>
+    <color name="colorSecondaryVariant">#81ACDE</color>
+    <color name="colorButton">#897BE0</color>
+    <color name="colorCardView">#D2D9F3</color>
+    <color name="colorAppHeader">#9F99F4</color>
+    <color name="colorBackGround">#E0EBF9</color>
+    <color name="colorShoeLabel">#7C10E0</color>
+    <color name="colorShoeValue">#070845</color>
+</resources>
